@@ -1,5 +1,6 @@
 /**
  * @format
+ * pathompol tasakoo
  */
 
 import {AppRegistry} from 'react-native';
